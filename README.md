@@ -1,5 +1,7 @@
 # ArchitectureTemplate
 An Android studio template for creating files which follows app architecture.
+Read More [Here](https://proandroiddev.com/accommodate-your-project-specific-needs-with-custom-templates-46cfdccc8363).
+
 
 ## Installation
 
